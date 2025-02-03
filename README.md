@@ -1,4 +1,5 @@
 # IBNIZ
+### (Attempted Chinesize)
 
 IBNIZ是一种专为极其紧凑的低级音视频程序设计的虚拟机。其主要设计目标是作为展示场景（demoscene）作品、故障艺术（glitch art）及类似项目的平台。主流软件工程方面的内容被认为完全无关紧要。
 
